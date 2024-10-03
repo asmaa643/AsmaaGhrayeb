@@ -10,7 +10,11 @@ Offering strong problem-solving skills and ability to quickly learn new technolo
 Feel free to reach out via email: asmaaghrayeb181@gmail.com
 
 🚀 Technical Skills:
+
 Programming Languages: Python, Java, C, C++, C#, Assembly, SQL.
+
 Operating Systems: Windows, Linux, Terminal, Shell, cmd.
+
 Version Control: Git, GitHub.
+
 Software Development Tools: PyCharm, Clion, IntelliJ IDEA, GitHub, Jupyter Notebook.
